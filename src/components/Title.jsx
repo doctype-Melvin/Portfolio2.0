@@ -38,8 +38,6 @@ function Title() {
                     <div className="col-12 col-md-6 title-text">
                         <h1>Hello,</h1>
                             <h3>I am <span className="typed"> </span></h3>
-                            {/* <h5>Pursuing B.tech 2nd Year from Gujarat, India.</h5> */}
-                            <h5>Presently working on my DSA skills.</h5>
                             <div className="hire-resume-button">
                                 <button className="btn btn-outline-dark" onclick="window.open('static/images/Viral_Rupani_Resume.pdf')">📄Resume</button>
                                 <a href="mailto:viralrupani12017@gmail.com"><button className="btn btn-dark mx-2">🧑‍💻Hire me</button></a>
