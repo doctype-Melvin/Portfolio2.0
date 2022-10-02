@@ -1,5 +1,6 @@
 # Portfolio2.0
-React based portfolio...
+
+Changing static portfolio to react based 
 
 run command
 ```
@@ -11,6 +12,9 @@ git branch <branch-name>
 git checkout <branch-name>
 npm start
 ```
+
+<h1>You can have HTML, CSS here its ready </h1>
+
 ```
 Template code: https://github.com/viralRupani/portfolio-2.0
 Preview: https://viralrupani.github.io/portfolio-2.0/
